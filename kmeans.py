@@ -4,7 +4,7 @@ Created on Fri Jan  5 12:45:26 2018
 
 @author: admin
 """
-
+# testing 
 import os
 from PIL import Image#讀圖的
 import numpy as np
